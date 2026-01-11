@@ -11,7 +11,7 @@ KL-RoBERTa is built on **[klue/roberta-base](https://huggingface.co/klue/roberta
 
 The model was further pretrained on a large-scale Korean legal corpus comprising **419,873,512 tokens**.
 
-The pretraining data consists of diverse types of Korean legal texts, including:
+The corpus consists of diverse types of Korean legal texts, including:
 
 - **Legal news articles** covering legislation, court rulings, and legal policy issues  
 - **Legal books** describing legal concepts, doctrines, and statutory interpretations  
