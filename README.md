@@ -9,7 +9,7 @@ The model was further pretrained using **continued pretraining** on a large-scal
 
 The pretraining data includes diverse types of Korean legal texts:
 - **Legal news articles** covering legislation, court rulings, and legal policy issues  
-- **Legal books and reference materials** describing legal concepts, doctrines, and statutory interpretations  
+- **Legal books** describing legal concepts, doctrines, and statutory interpretations  
 - **Court precedents**, including full-text judicial decisions written in formal legal language  
 
 Pretraining was conducted with the **Masked Language Modeling (MLM)** objective.  
