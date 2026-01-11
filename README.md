@@ -16,7 +16,3 @@ The pretraining data consists of diverse types of Korean legal texts, including:
 - **Legal news articles** covering legislation, court rulings, and legal policy issues  
 - **Legal books** describing legal concepts, doctrines, and statutory interpretations  
 - **Court precedents**, including full-text judicial decisions written in formal legal language  
-
-Pretraining was conducted using the **Masked Language Modeling (MLM)** objective.
-
-To support long and complex legal documents, the maximum input sequence length was extended to **4,096 tokens**.
