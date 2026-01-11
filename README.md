@@ -7,7 +7,7 @@ KL-RoBERTa is built on **[klue/roberta-base](https://huggingface.co/klue/roberta
 
 ---
 
-## Training details
+## Legal Corpus 
 
 The model was further pretrained on a large-scale Korean legal corpus comprising **419,873,512 tokens**.
 
